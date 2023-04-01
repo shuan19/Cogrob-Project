@@ -32,5 +32,5 @@ def main():
     Distance5 = Fluent("Distance5", BoolType(), l_from=location,l_to=location)
     Distance6 = Fluent("Distance6", BoolType(), l_from=location,l_to=location)
     Distance7 = Fluent("Distance7", BoolType(), l_from=location,l_to=location)
-    Distance9 = Fluent("Distance8", BoolType(), l_from=location,l_to=location)
+    Distance8 = Fluent("Distance8", BoolType(), l_from=location,l_to=location)
 
